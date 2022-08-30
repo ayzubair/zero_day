@@ -1,0 +1,1 @@
+This is a project that will guide on how to install and configure Virtual Box, Ubuntu 20.04 and lastly vagrant.
